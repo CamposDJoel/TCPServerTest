@@ -1,0 +1,17 @@
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.csproj.GenerateResource.cache
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.AssemblyInfoInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.AssemblyInfo.cs
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.sourcelink.json
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.Client.resources
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\bin\Debug\net8.0-windows\TCPChatClientTest.exe
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\bin\Debug\net8.0-windows\TCPChatClientTest.deps.json
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\bin\Debug\net8.0-windows\TCPChatClientTest.runtimeconfig.json
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\bin\Debug\net8.0-windows\TCPChatClientTest.dll
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\bin\Debug\net8.0-windows\TCPChatClientTest.pdb
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.dll
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\refint\TCPChatClientTest.dll
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.pdb
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\TCPChatClientTest.genruntimeconfig.cache
+D:\Documents\GitHub\TCPServerTest\TCPChatClientTest\obj\Debug\net8.0-windows\ref\TCPChatClientTest.dll
