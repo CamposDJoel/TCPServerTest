@@ -12,9 +12,9 @@ D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\bin\Debug\net8.0-windows\TCP
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\bin\Debug\net8.0-windows\TCPChatServerTest.dll
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\bin\Debug\net8.0-windows\TCPChatServerTest.pdb
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\bin\Debug\net8.0-windows\SimpleTCP.dll
-D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\TCPChatServerTest.csproj.CopyComplete
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\TCPChatServerTest.dll
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\refint\TCPChatServerTest.dll
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\TCPChatServerTest.pdb
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\TCPChatServerTest.genruntimeconfig.cache
 D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\ref\TCPChatServerTest.dll
+D:\Documents\GitHub\TCPServerTest\TCPChatServerTest\obj\Debug\net8.0-windows\TCPChatS.EE23C69F.Up2Date

@@ -1,0 +1,15 @@
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\bin\Debug\net8.0\TCPServerTest2.exe
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\bin\Debug\net8.0\TCPServerTest2.deps.json
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\bin\Debug\net8.0\TCPServerTest2.runtimeconfig.json
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\bin\Debug\net8.0\TCPServerTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\bin\Debug\net8.0\TCPServerTest2.pdb
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.AssemblyInfoInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.AssemblyInfo.cs
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.sourcelink.json
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\refint\TCPServerTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.pdb
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\TCPServerTest2.genruntimeconfig.cache
+D:\Documents\GitHub\TCPServerTest\TCPServerTest2\obj\Debug\net8.0\ref\TCPServerTest2.dll

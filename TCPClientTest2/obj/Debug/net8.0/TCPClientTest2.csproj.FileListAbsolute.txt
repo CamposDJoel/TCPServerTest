@@ -1,0 +1,15 @@
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\bin\Debug\net8.0\TCPClientTest2.exe
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\bin\Debug\net8.0\TCPClientTest2.deps.json
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\bin\Debug\net8.0\TCPClientTest2.runtimeconfig.json
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\bin\Debug\net8.0\TCPClientTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\bin\Debug\net8.0\TCPClientTest2.pdb
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.AssemblyInfoInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.AssemblyInfo.cs
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.sourcelink.json
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\refint\TCPClientTest2.dll
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.pdb
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\TCPClientTest2.genruntimeconfig.cache
+D:\Documents\GitHub\TCPServerTest\TCPClientTest2\obj\Debug\net8.0\ref\TCPClientTest2.dll
